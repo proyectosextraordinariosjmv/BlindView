@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlindView</string>
+    <string name="title_activity_settings">Configuración</string>
+
+    <string name="config_header">Configuración</string>
+
+    <string name="api_title_gpt">Clave de API (ChatGPT)</string>
+    <string name="api_title_maps">Clave de API (Google Maps)</string>
+</resources>

@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/config_header"
+        app:key="config">
+
+        <EditTextPreference
+            app:key="apiKeyGPT"
+            app:title="@string/api_title_gpt" />
+
+        <EditTextPreference
+            app:key="apiKeyMaps"
+            app:title="@string/api_title_maps" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
